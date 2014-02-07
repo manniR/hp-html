@@ -18,18 +18,20 @@
 }
 
 
-.h1 {
+h1 {
 	color: red !important;
-	font: 11em "HitTheRoadRegular" !important;
-	display:block;
-	width:100%;
-	margin-top: -240px;
-	position:relative;
+	font: 11em "HitTheRoadRegular";
+/*display:block;*/
+	/*width:100%;*/
+	/*margin-top: -240px;*/
+	/*position:relative;*/
 	z-index:11111;
 	
 	
 
 }
+
+
 
 img	{
 	width: 100%;
