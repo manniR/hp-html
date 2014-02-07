@@ -1,0 +1,3 @@
+[submodule "FitText"]
+	path = FitText
+	url = https://github.com/davatron5000/FitText.js
