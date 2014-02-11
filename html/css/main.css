@@ -17,40 +17,23 @@
 
 }
 
-#logo {
-    overflow: hidden;
-    margin-top: 2em;
-}
 
-#test{
+
+#logo {
 
     color: white !important;
-    background: orange;
-    font: 10em "HitTheRoadRegular";
+    /*background: orange;*/
+    font: 10em "HitTheRoadRegular" !important;
     text-align: center;
 /*display:block;*/
     /*width:100%;*/
-    margin: 0;
+    margin: -20% 0 0 0;
     padding:0;
     
     /*position:relative;*/
     z-index:11111;
 }
 
-#logo p {
-	color: white !important;
-    background: red;
-	font: 10em "HitTheRoadRegular";
-    text-align: center;
-/*display:block;*/
-	/*width:100%;*/
-    margin: 0;
-    padding:0;
-	
-	/*position:relative;*/
-	z-index:11111;
-
-}
 
 
 
